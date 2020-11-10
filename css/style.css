@@ -1,4 +1,3 @@
-/* reset */
 body {
   margin: 0px;
 }
@@ -14,8 +13,7 @@ img {
   max-width: 100%;
 }
 
-/* estilos */
-.wrapper {
+.slide-wrapper {
   overflow: hidden;
 }
 
@@ -24,8 +22,8 @@ img {
 }
 
 .slide li {
-  width: 80vw;
   flex-shrink: 0;
+  width: 80vw;
   max-width: 800px;
   margin: 0 20px;
 }
