@@ -16,7 +16,7 @@ Esse projeto tem como base as seguintes tecnologias:
 
 ##  :pushpin: Projeto
 
-O Slide foi implementado em Javascript vanilla com arquitetura de classes, possui custom controls totalmente adaptáveis, otimizado é responsivo. Você pode navegar entre os slides por toque, clique nos botões, clique nas paginações (thumbnails ou bolinhas). 
+O Slide foi implementado em Javascript vanilla com arquitetura de classes, possui custom controls totalmente adaptáveis, otimizado e responsivo. Você pode navegar entre os slides por toque, clique nos botões, clique nas paginações (thumbnails ou bolinhas). 
 
 <div align="center">
     <p>Preview custom controls 1</p>
