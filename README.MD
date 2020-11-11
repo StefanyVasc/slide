@@ -1,11 +1,9 @@
 <div align="center">
-    <img alt="ícone happy" src="./web/src/images/map-marker.svg" width="100px" />
+    <img alt="ícone happy" src="img/slide.png" width="100px" />
     <h1 align="center">Slide</h1>
     </br>
 </div>
-</br>
 
-<br>
 
 ## :rocket: Tecnologias
 
@@ -14,9 +12,6 @@ Esse projeto tem como base as seguintes tecnologias:
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS 3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-
-
 
 
 ##  :pushpin: Projeto
